@@ -1,2 +1,2 @@
 # online-queue
-Project aimed to minimize in-person waiting times for establishments.
+Project aimed to minimize in-person wait times for establishments.
